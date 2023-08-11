@@ -1,0 +1,11 @@
+{
+  "name": "npm-install-missing",
+  "version": "1.0.0",
+  "description": "A command-line utility to install missing npm packages from a script.",
+  "bin": {
+    "npm-install-missing": "./bin/npm-install-missing.js"
+  },
+  "preferGlobal": true,
+  "author": "Josh Wolf",
+  "license": "MIT"
+}
